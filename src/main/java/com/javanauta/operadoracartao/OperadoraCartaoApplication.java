@@ -1,13 +1,13 @@
-package com.javanauta.operadoracartaocredito;
+package com.javanauta.operadoracartao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OperadoraCartaoCreditoApplication {
+public class OperadoraCartaoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OperadoraCartaoCreditoApplication.class, args);
+		SpringApplication.run(OperadoraCartaoApplication.class, args);
 	}
 
 }

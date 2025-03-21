@@ -1,10 +1,10 @@
-package com.javanauta.operadoracartaocredito;
+package com.javanauta.operadoracartao;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OperadoraCartaoCreditoApplicationTests {
+class OperadoraCartaoApplicationTests {
 
 	@Test
 	void contextLoads() {
